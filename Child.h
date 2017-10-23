@@ -1,6 +1,11 @@
-//
-// Created by dad on 10/21/17.
-//
+/**
+ * Missouri State University
+ * CSC232 - Data Structures with C++, Fall 2017
+ *
+ * @brief A specification for the a child class in the Human class hierarchy.
+ * @file Child.h
+ * @author Jim Daehn
+ */
 
 #ifndef CSC232_CHILD_H
 #define CSC232_CHILD_H

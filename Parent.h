@@ -1,6 +1,11 @@
-//
-// Created by dad on 10/21/17.
-//
+/**
+ * Missouri State University
+ * CSC232 - Data Structures with C++, Fall 2017
+ *
+ * @brief A specification for a parent class in the Human class hierarchy.
+ * @file Parent.h
+ * @author Jim Daehn
+ */
 
 #ifndef CSC232_PARENT_H
 #define CSC232_PARENT_H
