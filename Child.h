@@ -2,8 +2,8 @@
 // Created by dad on 10/21/17.
 //
 
-#ifndef RAWPOINTERWITHPOLYMORPH_CHILD_H
-#define RAWPOINTERWITHPOLYMORPH_CHILD_H
+#ifndef CSC232_CHILD_H
+#define CSC232_CHILD_H
 
 #include "Parent.h"
 
@@ -19,4 +19,4 @@ private:
 };
 
 
-#endif // RAWPOINTERWITHPOLYMORPH_CHILD_H
+#endif // CSC232_CHILD_H
